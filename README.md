@@ -16,6 +16,7 @@ price.</li>
 <li> Remove Items: Allow removing a product entirely from the cart.</li>
 <li> Calculate Total: Calculate the total price of all items in the cart.</li>
 </ul>
+<h2 style="font-weight: bold";>How to run Project </h2>
 <ul>
     <li>Step 1 : Clone the Project Eg : git clone  https://github.com/hashimpk07/twoHatslogic.git  </li>
     <li>Step 2: added .env file</li>
